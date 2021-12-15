@@ -13,6 +13,8 @@
 ・ジャンパー線　× 6
 
 #回路
+
 配線図
+![配線図](https://user-images.githubusercontent.com/95580448/146232864-489d3742-2dac-43bd-8d5e-825c952cef02.jpg)
 
 
