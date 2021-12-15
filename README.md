@@ -9,7 +9,7 @@
 
 ## 使ったもの
 
-・Rasberry Pi4 Model
+・Rasberry Pi4 Model　B
 
 ・LED ×　1
 
