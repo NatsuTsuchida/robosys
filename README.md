@@ -29,11 +29,34 @@
 
 ・インストール
 
-以下のコマンドを実行
+```sh
+$ git clone https://github.com/NatsuTsuchida/robosys.git
+$ cd robosys/myled
+$ make
+```
+
+権限を与える
 
 ```sh
-$ git clone 
-$ cd robosys_LED
-$ make
+$sudo insmod myled.ko
+$sudu chmod 666 /dev/myled0
+```
+
+・アンインストール
+
+```sh
+$sudo rmmod myled
+$make ckean
+```
+
+・LEDをつける
+
+```sh
+$echo 1 > /dev/myled0
+```
+
+・LED を消す
+```sh
+$echo 0 > /dev/myled0
 ```
 
