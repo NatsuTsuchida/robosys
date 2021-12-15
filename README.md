@@ -35,7 +35,7 @@ $ cd robosys/myled
 $ make
 ```
 
-権限を与える
+・権限を与える
 
 ```sh
 $sudo insmod myled.ko
