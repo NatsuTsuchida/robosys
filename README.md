@@ -60,4 +60,4 @@ $echo 1 > /dev/myled0
 $echo 0 > /dev/myled0
 ```
 
-[GNU General Public License v3.0]()
+[GNU General Public License v3.0](https://github.com/NatsuTsuchida/robosys/blob/main/COPYING)
