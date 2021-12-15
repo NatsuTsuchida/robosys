@@ -2,7 +2,8 @@
 2021ロボットシステム学の課題１で作成したものです。
 
 #動作環境
-・Rasberry Pi4 Model 
+・Rasberry Pi4 Model
+
 ・OS:ubuntu 20.04 server
 
 #使ったもの
